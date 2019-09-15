@@ -1,0 +1,62 @@
+%Information über den Chatbot & Small Talk
+Mein_Name;Mein Name ist CLaire CLever.
+Chatbot;Ich bin ein Chatbot. Auch Chatbots dürfen studieren, oder?
+Mein_Fragenspektrum;Ich kann verschiedene Fragen beantworten: Fragen zur Computerlinguistik, zum Studium an der Universität Zürich und zu mir selber. Zudem kann ich Definition von Wikipedia abrufen. Teste dies mit "Was ist XY?".
+
+%Informationen zu Computerlinguistik/Sprachtechnologie
+Computerlinguistik;Die Computerlinguistik ist...
+Sprachtechnologie;Die Sprachtechnologie ist...
+Anwendungsgebiete_der_CL;Typische Anwendungsgebiete der Computerlinguistik sind folgende: 
+Jobaussichten_in_CL;Die Jobaussichten für Absolventen eines CL-Studiums sind generell sehr gut. Die Computerlinguistik ist ein stets wachsendes Gebiet.
+Schwierigkeiten;Erklären, wieso CL/NLP nicht trivial ist...
+
+%Informationen zu einem Studium an der UZH
+Bachelor_Studiumdauer;Ein Bachelor-Studium dauert im Normalfall 6 Semester.
+Master_Studiumdauer;Ein Master-Studium dauert im Normalfall 4 Semester.
+Urlaubssemester;Urlaubsemester
+Auslandsemester;Auslandsemester
+Semestergebühren;Semestergebühren
+Sport;Sport
+Standorte;Standorte
+Modulbuchung;Modulbuchung
+Semesterdaten;Semesterdaten
+Vorlesungsverzeichnis;Vorlesungsverzeichnis
+Fristen;Fristen
+Studiengänge;Studiengänge
+Prüfungsdaten;Prüfungsdaten
+Öffnungszeiten;Öffnungszeiten
+Shuttle;Shuttle
+Vorlesungszeiten;Vorlesungszeiten
+Module_an_ETH;Module_an_ETH
+Betreuer_Arbeit;Betreuer_Arbeit
+Leistungsübersicht;Leistungsübersicht
+Wohnen;Wohnen
+Passwörter;Passwörter
+technische_Probleme;technische_Probleme
+Wifi;Wifi
+Drucker_und_Scanner;Drucker_und_Scanner
+Krankheit;Krankheit
+ECTS;ECTS
+Noten;Noten
+Sprachenzentrum;Sprachenzentrum
+Rechtsberatung;Rechtsberatung
+Barrierefreiheit;Barrierefreiheit
+Polybahn;Polybahn
+Bologna_2020;Bologna_2020
+Fakultäten;Fakultäten
+
+%Informationen zum Studium der Computerlinguistik
+Studienberater_CL;Der Studienberater des Instituts für CL heisst Manfred Klenner. Seine Kontaktdaten findest du auf dieser Homepage.
+Fragen_zum_Studium;Ich kann gerne versuchen, dir weiterzuhelfen. Falls du mehr Auskunft brauchst, kannst du dich an unsereren Studienberater Manfred Klenner wenden, dessen Kontaktdaten du auf dieser Homepage findest.
+CL_Universitäten;In der Schweiz kann Computerlinguistik auf Deutsch nur in Zürich studiert werden. Des Weiteren kann man CL in Genf auf Französisch und an verschiedenen Universitäten in Deutschland auf Deutsch studiert werden. In englischer Sprache kann CL an verschiedenen Universitäten auf der ganzen Welt studiert werden.
+Vorkenntnisse;Für das Computerlinguistik-Studium brauchst du keine spezifischen Vorkenntnisse. Du solltest offen sein, neue Werkzeuge am Computer kennenzulernen und dich für Sprache interessieren.
+Kombination_mit_Phonetik;Das Computerlinguistik-Studium kann... kombiniert werden.
+Kombination_mit_Informatik;Das Computerlinguistik-Studium kann... kombiniert werden.
+Kombination_mit_anderem_Fach;Das Computerlinguistik-Studium kann grundsätzlich mit allen Fächern kombiniert werden, ausser mit sich selber.
+Themen_für_Arbeiten;Vorschläge für Themen für Bachelor- und Masterarbeiten findest du unter...
+Sprache_in_Lehrveranstaltungen;Die Lehrveranstaltungen finden grundsätzlich auf Deutsch oder Englisch statt. Viele Dozenten zeigen sich flexibel, wenn es z.B. um Antworten in Prüfungen geht, denn da kann man oft in Deutsch ODER Englisch antworten.
+Immatrikulation;Informationen zur Immatrikulation an der Universität Zürich findest du unter https://www.uzh.ch/cmsssl/de/studies/application.html
+Module;Module
+
+%Diverses zu Computerlinguistik an der UZH
+Weiterbildungskurse_an_UZH;PLACEHOLDER_Weiterbildungskurse
