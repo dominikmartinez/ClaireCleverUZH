@@ -4,59 +4,59 @@ Chatbot;Ich bin ein Chatbot. Auch Chatbots dürfen studieren, oder?
 Mein_Fragenspektrum;Ich kann verschiedene Fragen beantworten: Fragen zur Computerlinguistik, zum Studium an der Universität Zürich und zu mir selber. Zudem kann ich Definition von Wikipedia abrufen. Teste dies mit 'Was ist XY?'.
 
 %Informationen zu Computerlinguistik/Sprachtechnologie
-Computerlinguistik;Die Computerlinguistik ist...
-Sprachtechnologie;Die Sprachtechnologie ist...
-Anwendungsgebiete_der_CL;Typische Anwendungsgebiete der Computerlinguistik sind folgende: 
-Jobaussichten_in_CL;Die Jobaussichten für Absolventen eines CL-Studiums sind generell sehr gut. Die Computerlinguistik ist ein stets wachsendes Gebiet.
-Schwierigkeiten;Erklären, wieso CL/NLP nicht trivial ist...
+Computerlinguistik;Die Computerlinguistik ist eine junge Disziplin im Überschneidungsbereich von Sprachforschung und Informatik. Sie untersucht, wie die menschliche Sprache als Mittel zur Übermittlung, Speicherung und Verarbeitung von Information verwendet wird, und wie man diese Prozesse auf dem Computer modellieren und für konkrete Anwendungen nutzbar machen kann.
+Sprachtechnologie;Wenn die praktische Entwicklung von Werkzeugen interessiert, die in verschiedenen Phasen der automatischen Verarbeitung natürlicher Sprachen eingesetzt werden, spricht man meist von Sprachtechnologie.
+Anwendungsgebiete_der_CL;Typische Anwendungsgebiete der Computerlinguistik sind Maschinelle Übersetzung, Machine Learning für NLP (Natural Language Processing), Dialogsysteme (Chatbots), Medieninhaltsanalyse (Media Contant Analysis), Informationsextraktion (Text Mining), Sentiment-Analyse (Opinion Mining), Automatische Textvereinfachung und Textzusammenfassung, E-Accessibility, Texttechnologie für historische Texte (Digital Humanities).
+Jobaussichten_in_CL;Für Computerlinguisten bieten sich vielfältige Einsatzfelder in Bereichen der Sprachtechnologie. Während bis in die 80er Jahre Computerlinguisten vor allem in der Forschung arbeiteten, finden sich in den letzten Jahren vermehrt Stellen in der Industrie, wie z.B. bei Übersetzungsabteilungen grosser Unternehmen, Softwarehäusern (insbesondere im Bereich der Übersetzerhilfsmittel und Information Retrieval), Verlagen und Bibliotheken. Siehe auch: https://www.cl.uzh.ch/de/texttechnologies/what-is-cl/berufsaussichten.html
+Schwierigkeiten;Sprache ist sehr komplex, denk mal an die Missverständnisse, welche bei menschlicher Kommunikation entstehen. Für Computer ist das natürlich alles noch viel schwieriger. Stichworte dazu, welche dich während deiner ganzen CL-Karriere Begleiten werden sind zum Beispiel Ambiguitäten, Homophone, Ironie, Code-Switch, etc.
 
 %Informationen zu einem Studium an der UZH
 Bachelor_Studiumdauer;Ein Bachelor-Studium dauert im Normalfall 6 Semester.
 Master_Studiumdauer;Ein Master-Studium dauert im Normalfall 4 Semester.
-Urlaubssemester;Urlaubsemester
-Auslandsemester;Auslandsemester
-Semestergebühren;Semestergebühren
-Sport;Sport
-Standorte;Standorte
-Modulbuchung;Modulbuchung
-Semesterdaten;Semesterdaten
-Vorlesungsverzeichnis;Vorlesungsverzeichnis
-Fristen;Fristen
-Studiengänge;Studiengänge
-Prüfungsdaten;Prüfungsdaten
-Öffnungszeiten;Öffnungszeiten
-Shuttle;Shuttle
-Vorlesungszeiten;Vorlesungszeiten
-Module_an_ETH;Module_an_ETH
-Betreuer_Arbeit;Betreuer_Arbeit
-Leistungsübersicht;Leistungsübersicht
-Wohnen;Wohnen
-Passwörter;Passwörter
-technische_Probleme;technische_Probleme
-Wifi;Wifi
-Drucker_und_Scanner;Drucker_und_Scanner
-Krankheit;Krankheit
-ECTS;ECTS
-Noten;Noten
-Sprachenzentrum;Sprachenzentrum
-Rechtsberatung;Rechtsberatung
-Barrierefreiheit;Barrierefreiheit
-Polybahn;Polybahn
-Bologna_2020;Bologna_2020
-Fakultäten;Fakultäten
+Urlaubssemester;Urlaubssemester müssen über das Studierendenportal beantragt werden, 
+Auslandsemester;Auslandsemester mit ERASMUS ist auch im Computerlinguistikstudium möglich, bitte informiere dich über die Webseite: https://www.cl.uzh.ch/de/studium/studies-tt/erasmus.html
+Semestergebühren;Die Semestergebühren betragen im Normalfall 720 CHF, wobei es zusätzliche Zuschläge gibt für BildungsausländerInnen (siehe: https://www.uzh.ch/cmsssl/de/studies/application/fees.html). 
+Sport;Der Unisport der UZH bietet ein vielfältiges Angebot von 120 Sportarten in 48 Sportanlagen in und um Zürich an. Siehe: https://asvz.ch
+Standorte;Die UZH hat viele Standorte (https://www.uzh.ch/cmsssl/de/about/info/sites.html). Das Institut für Computerlinguistik ist am Standort Oerlikon im AND. Ein Teil der Phonetik ist im Uniturm untergepracht.
+Modulbuchung;Buche deine Module innerhalb der Frist! Beachte die offiziellen Informationen auf der UZH Webseite: https://www.students.uzh.ch/de/booking.html. Da findest du auch den Link zur Online-Modulbuchung.
+Semesterdaten;Die aktuellen Semesterdaten findest du immer unter https://www.uzh.ch/cmsssl/de/studies/dates/dates.html.
+Vorlesungsverzeichnis;Das Vorlesungsverzeichnis der UZH findest du unter https://studentservices.uzh.ch. Der CL-Stundenplan gibt dir eine Übersicht über die CL-Vorlesungen: https://www.cl.uzh.ch/de/studium/studies-tt/studies-1/HS2019.html. 
+Fristen;Jede Fakultät der UZH hat eigene Fristen! Diejenigen der Philosophischen Fakultät findest du unter https://www.phil.uzh.ch/de/studium/studentservices/termine.html. Beachte, dass die Fristen für Informatikmodule davon abweichen, da für diese die Fristen der Wirtschaftswissenschaftlichen Fakultäten gelten.
+Studiengänge;Computerlinguistik und Sprachtechnologie kann im Bachelor und im Master als Haupt- oder Nebenfach studiert werden. Zudem gibt es für Studierende ohne Bachelor-Vorkenntnisse in der CL die Möglichkeit, das Nebenfach Digital Linguistics zu buchen. Alle Informationen zu den CL-Studienmöglichkeiten findest du hier: https://www.cl.uzh.ch/de/studium/studies-tt/degrees.html.
+Prüfungsdaten;Die Prüfungen der Computerlinguistikmodule finden im Normalfall ca. Zwei Wochen nach Semesterende statt.
+Öffnungszeiten;Die Öffnungszeiten der UZH Gebäude findest du auf folgender Seite: https://www.uzh.ch/cmsssl/de/about/info/hours.html.
+Shuttle;Die UZH bietet 2-3 mal pro Tag einen Shuttlebus zwischen den Standorten Zentrum und Oerlikon an. Den Fahrplan findest du hier: https://www.uzh.ch/cmsssl/de/studies/dates/shuttle.html.
+Vorlesungszeiten;Die Anfangszeiten für Lehrveranstaltungen an der UZH findest du hier: https://www.uzh.ch/cmsssl/de/studies/dates/schedule.html. Sie unterscheiden sich von den Anfangszeiten der Stunden an der ETH.
+Module_an_ETH;Grundsätzlich gibt es die Möglichkeit, ETH Lehrveranstaltungen, die mit deinem Studium im Zusammenhang stehen, zu besuchen. Dafür musst du dich an der ETH als Fachstudierender registrieren, siehe: https://ethz.ch/de/studium/non-degree-angebote/fachstudierende/fachstudierende_uzh.html. Kläre aber unbedingt vorher mit dem Studienberater ab, ob du dir diese Punkte anrechnen lassen kannst für dein CL Studium.
+Betreuer_Arbeit;Auf der CL-Webseite findest du offene Themen für Arbeiten. Bei Interesse, melde dich beim jeweiligen Betreuer. https://www.cl.uzh.ch/de/studium/studies-tt/teaching/proof-accomplishment/BaMasterArbeit.html
+Leistungsübersicht;Hier geht es zum Login deiner Leistungsübersicht: https://www.students.uzh.ch/de/record/uebersicht.html.
+Wohnen;Eine Wohnung zu finden in Zürich ist nicht ganz trivial. Die UZH gibt ihr bestes, dich dabei zu unterstützen. Schau mal hier rein: https://www.uzh.ch/studies/studentlife/accomodation.html
+Passwörter;Deine UZH Passwörter verwaltest du über den Identity Manager, hier geht’s zur Anleitung & Übersicht: https://www.zi.uzh.ch/de/students/password-account/manage-password.html.
+technische_Probleme;Wende dich für technische Probleme an den Support der zentralen Informatik: https://www.zi.uzh.ch/de/support.html.
+Wifi;Als Student hast du an der UZH Zugang zum WLAN oder auch Eduroam. Hier findest du Anleitungen für die Einrichtung: https://www.zi.uzh.ch/de/support/netzwerk.html.
+Drucker_und_Scanner;UZH Pring Plus ermöglicht Studierenden die Nutzung der Multifunktionsgeräte an verschiedenen Standorten. Scans sind kostenlos, zum Drucken muss man Guthaben aufladen. Details findest du hier: https://www.zi.uzh.ch/de/students/workplace-collaboration/uzhprintplus/4students.html
+Krankheit;Die Fachstelle Studium und Behinderung (FSB) ist die erste Kontaktstelle für Studierende mit Behinderungen oder chronischen Krankheiten: https://www.disabilityoffice.uzh.ch/de.html.
+ECTS;ECTS steht für “European Credit Transfer und Accumulation System”. 1 ECTS Credit entspricht einem durchschnittlichen studentischen Arbeitspensum von 30 Stunden. Ein Bachelorstudium umfasst 180 ECTS, ein Masterstudium 120.
+Noten;Sobald die Noten bzw. die Information, ob sie bestanden oder nicht bestanden haben, elektronisch erfasst wurden, können Sie sie mit Hilfe Ihrer UZH-Login-Daten über den Link http://www.students.uzh.ch/record.html einsehen. 
+Sprachenzentrum;Das Sprachenzentrum hat ein grosses Angebot für UZH Studierende und Mitarbeitende: https://www.sprachenzentrum.uzh.ch/de.html. Die Kurse sind grundsätzlich sehr beliebt, mein Tipp ist also, dich schnell zu bewerben! 
+Rechtsberatung;Der VSUZH bietet Rechtsberatung für Studierende an, Details dazu findest du hier: https://vsuzh.ch/de/dienstleistungen#rechtsberatung
+Barrierefreiheit;Die Fachstelle Studium und Behinderung (FSB) ist die erste Kontaktstelle für Studierende mit Behinderungen oder chronischen Krankheiten: https://www.disabilityoffice.uzh.ch/de.html.
+Polybahn;Die Polybahn fährt von 6.45-19.15 (MO-FR) und 7.30-14 (SA) alle 2-5 Minuten zwischen Central & Polyterrasse hin- und her. Sie ist Mitglied des ZVV.
+Bologna_2020;Im Rahmen der universitären Studienreform “Bologna 2020” überarbeitet die Philosophische Fakultät ihre Studiengänge. Detailierte Informationen dazu findest du hier: https://www.phil.uzh.ch/de/studium/bologna2020.html
+Fakultäten;An der UZH gibt es 7 Fakultäten: theologische, rechtswissenschaftliche, wirtschaftswissenschaftliche, medizinische, vetsuisse, philosophische und mathematisch-naturwissenschaftliche Fakultät (siehe https://www.uzh.ch/about/faculties.html).
 
 %Informationen zum Studium der Computerlinguistik
 Studienberater_CL;Der Studienberater des Instituts für CL heisst Manfred Klenner. Seine Kontaktdaten findest du auf dieser Homepage.
 Fragen_zum_Studium;Ich kann gerne versuchen, dir weiterzuhelfen. Falls du mehr Auskunft brauchst, kannst du dich an unsereren Studienberater Manfred Klenner wenden, dessen Kontaktdaten du auf dieser Homepage findest.
 CL_Universitäten;In der Schweiz kann Computerlinguistik auf Deutsch nur in Zürich studiert werden. Des Weiteren kann man CL in Genf auf Französisch und an verschiedenen Universitäten in Deutschland auf Deutsch studiert werden. In englischer Sprache kann CL an verschiedenen Universitäten auf der ganzen Welt studiert werden.
 Vorkenntnisse;Für das Computerlinguistik-Studium brauchst du keine spezifischen Vorkenntnisse. Du solltest offen sein, neue Werkzeuge am Computer kennenzulernen und dich für Sprache interessieren.
-Kombination_mit_Phonetik;Das Computerlinguistik-Studium kann... kombiniert werden.
-Kombination_mit_Informatik;Das Computerlinguistik-Studium kann... kombiniert werden.
+Kombination_mit_Phonetik;Phonetik wird innerhalb des neuen Monomasters Linguistik (120 ETCS) als Schwerpunkt angeboten. Darüber hinausgehend gibt es ein vielfältiges Angebot an Lehrveranstaltungen sowohl auf Bachelor- wie auch Master-Stufe.
+Kombination_mit_Informatik;Computerlinguistik und Informatik ist eine gute Fächerkombination! Einige Informatik-Module wirst du sowieso belegen müssen, wenn du dich für das CL-Studium entscheidest.
 Kombination_mit_anderem_Fach;Das Computerlinguistik-Studium kann grundsätzlich mit allen Fächern kombiniert werden, ausser mit sich selber.
-Themen_für_Arbeiten;Vorschläge für Themen für Bachelor- und Masterarbeiten findest du unter...
-Sprache_in_Lehrveranstaltungen;Die Lehrveranstaltungen finden grundsätzlich auf Deutsch oder Englisch statt. Viele Dozenten zeigen sich flexibel, wenn es z.B. um Antworten in Prüfungen geht, denn da kann man oft in Deutsch ODER Englisch antworten.
+Themen_für_Arbeiten;Vorschläge für Themen für Bachelor- und Masterarbeiten findest du unter https://www.cl.uzh.ch/de/studium/studies-tt/teaching/proof-accomplishment/BaMasterArbeit.html.
+Sprache_in_Lehrveranstaltungen;Die Lehrveranstaltungen finden grundsätzlich auf Deutsch oder Englisch statt. Viele Dozenten zeigen sich flexibel, wenn es z.B. um Antworten in Prüfungen geht, denn da kann man oft auf Deutsch oder Englisch antworten.
 Immatrikulation;Informationen zur Immatrikulation an der Universität Zürich findest du unter https://www.uzh.ch/cmsssl/de/studies/application.html
-Module;Module
+Module;Zum Thema Modulbuchung gibt es ein ausführliches FAQ auf unserer CL-Homepage: https://www.cl.uzh.ch/de/studium/studies-tt/faq/Modulbuchung.html.
 
 %Diverses zu Computerlinguistik an der UZH
-Weiterbildungskurse_an_UZH;PLACEHOLDER_Weiterbildungskurse
+Weiterbildungskurse_an_UZH;An der UZH gibt es ein grosses Angebot an Weiterbildungen in allen möglichen Bereichen: https://www.weiterbildung.uzh.ch/de.html.
