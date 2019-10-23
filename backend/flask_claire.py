@@ -1,11 +1,11 @@
+import argparse
+
 from flask import Flask, request, session
-from flask_cors import CORS, cross_origin
 from copy import deepcopy
 
 from claire_clever import ClaireClever
 
 app = Flask(__name__)
-CORS(app)
 claire = ClaireClever()
     
 def initiate_bot_dict():
@@ -14,7 +14,6 @@ def initiate_bot_dict():
     bot_dict[0] = "dummy"
     
 @app.route('/chatbot', methods = ['POST', 'GET'])
-@cross_origin()
 def chatbot():
     global bot_dict
     question = request.form['question']
@@ -39,6 +38,18 @@ def chatbot():
             del bot_dict[int(id)]
         return {"answer": answer, "id": str(id), "close_session": close_session}
 
+
+def parse_args(args=None):
+    ap = argparse.ArgumentParser(
+        description='Start the chatbot API.',
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    ap.add_argument('-d', '--debug', action='store_true', help='debugging mode')
+    ap.add_argument('-i', '--host', default='0.0.0.0', help='interface')
+    ap.add_argument('-p', '--port', default='54321', help='port number')
+    return ap.parse_args(args)
+
+
 if __name__ == "__main__":
     initiate_bot_dict()
-    app.run(debug=True)
+    args = parse_args()
+    app.run(debug=args.debug, host=args.host, port=args.port)

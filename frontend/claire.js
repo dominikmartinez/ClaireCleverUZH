@@ -54,7 +54,7 @@ function submitInput(){
         }
         question = getInput();
         $.ajax({
-            url: "http://127.0.0.1:5000/chatbot",
+            url: "./api/chatbot",
             data: {id: window.id, question: question, close_session: window.closeSession},
             dataType: "text",
             type: "POST", 
