@@ -1,13 +1,11 @@
 import argparse
 
 from flask import Flask, request, session
-from flask_cors import CORS, cross_origin
 from copy import deepcopy
 
 from claire_clever import ClaireClever
 
 app = Flask(__name__)
-CORS(app)
 claire = ClaireClever()
     
 def initiate_bot_dict():
@@ -16,7 +14,6 @@ def initiate_bot_dict():
     bot_dict[0] = "dummy"
     
 @app.route('/chatbot', methods = ['POST', 'GET'])
-@cross_origin()
 def chatbot():
     global bot_dict
     question = request.form['question']
